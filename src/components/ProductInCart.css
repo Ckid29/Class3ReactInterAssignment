@@ -1,0 +1,23 @@
+.product-cart {
+    border: 1px solid darkgreen;
+    padding: 10px 20px;
+    border: 10 px;
+    display: flex;
+}
+
+.product-cart img {
+    height:90px;
+    flex: 1;
+}
+
+.product-cart .description {
+    flex: 4;
+}
+
+.product-cart label{
+    flex: 2;
+}
+
+.product-cart .btn {
+    flex: 1;
+}
